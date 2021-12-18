@@ -1,6 +1,4 @@
 20. Write a js program to sort even and odd elements of array separately.*******
-21. Write a js program to left rotate an array.********
-22. Write a js program to right rotate an array.********
 23. Write a js program to print day of week name using switch case.
 24. Write a js program print total number of days in a month using switch case.
 25. Write a js program to check whether an alphabet is vowel or consonant using switch case.
