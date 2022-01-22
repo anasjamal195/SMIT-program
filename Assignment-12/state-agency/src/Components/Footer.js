@@ -89,7 +89,8 @@ export const Footer = () => {
             </div>
             <div className='col-md-6'></div>
             <div className='Footer-Section-3-CopyRt col-md-3 container'>
-                &copy; 2021 Besnik, All Rights Reserved
+                &copy; 2021 Besnik, All Rights Reserved<br/>
+                Website created by Anas Jamal
             </div>
         
     </div>
