@@ -16,7 +16,7 @@ export const Page_2 = () => {
           What Can We Help You Find?
       </div>
       <div className='container row Page-2-Cards-Container'>
-          <div className='container col-md-4'>
+          <div className='container Page-2-Card col-md-4'>
               <div className='Page-2-Card-Img'>
                   <img src = {page_2_card_1} alt = "Card Image"></img>
               </div>
@@ -29,7 +29,7 @@ export const Page_2 = () => {
               </div>
           </div>
 
-          <div className='container col-md-4'>
+          <div className='container Page-2-Card col-md-4'>
               <div className='Page-2-Card-Img'>
                   <img src = {page_2_card_2} alt = "Card Image"></img>
               </div>
@@ -41,7 +41,7 @@ export const Page_2 = () => {
               </div>
           </div>
 
-          <div className='container col-md-4'>
+          <div className='container Page-2-Card col-md-4'>
               <div className='Page-2-Card-Img'>
                   <img src = {page_2_card_3} alt = "Card Image"></img>
               </div>

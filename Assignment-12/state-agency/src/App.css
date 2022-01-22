@@ -311,21 +311,15 @@ font-style: normal;
 font-weight: normal;
 font-size: 18px;
 line-height: 28px;
-
-/* or 156% */
-
 color: #B6BEC8;
 }
 .form-label-footer{
     font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 19px;
-
-/* identical to box height */
-
-color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
 }
 .Footer-Section-1-Text{
     text-align: center;
@@ -370,3 +364,278 @@ color: #576B81;
     line-height: 17px;    
     color: #576B81;
 }
+
+/* ************************************************ */
+
+/* Navbar CSS */
+.navbar-nav{
+
+    margin-left:auto;
+    margin-right: 15%;
+}
+.nav-link{
+    text-decoration: none;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #576B81;
+
+}.nav-item{
+    padding:3%;
+    display: flex;
+    align-items: center;
+    
+}
+.Navbar-btn-1{
+    border: #2289FF solid 1px;
+    background-color: #ffffff;
+    color: #2289FF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    width: 100px;
+    
+}
+.Navbar-btn-2{
+   
+    background-color:#2289FF;
+    color: white;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    width: 100px;
+}
+
+
+/* ************************************************** */
+
+/* CSS Responsive Breakepoints */
+
+@media only screen and (max-width: 900px) {
+     /* Page-1 CSS */
+.Page-1-Heading{
+   
+font-weight: 500;
+font-size: 40px;
+line-height: 46px;
+
+
+}
+.Page-1-Body{
+font-size: 15px;
+line-height: 25px;
+
+}
+
+
+.Page-1-Search-box{
+    margin: 20px ;
+ 
+}
+
+
+/* ***************************************************** */
+
+
+
+/* Page 2 CSS */
+.Page-2-Header-container>img{
+    width: 200%;
+    margin:0 auto;
+}
+.Page-2-Body-Content{
+   
+    height:100%;
+    margin:20% 0px;
+
+}
+
+.Page-2-Heading{
+
+font-weight: 500;
+font-size: 38px;
+line-height: 38px;
+margin:20% 0px;
+}
+.Page-2-Card{
+    margin:5% 0;
+}
+.Page-2-Card-Heading{
+font-weight: 500;
+font-size: 26px;
+line-height: 21px;
+text-align: center;
+margin: 5% 0;
+}
+.Page-2-Card-Body{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #576B81;
+width:70%;
+margin: 0 auto;
+}
+
+
+/* ***************************************************** */
+/* Page 3 CSS */
+.Page-3-Body-Content{
+    height: 100%;
+}
+.Page-3-Heading{
+margin:5% 0px;
+font-weight: 600;
+font-size: 38px;
+line-height: 52px;
+
+
+}
+.Page-3-Body{
+font-size: 14px;
+line-height: 26px;
+}
+.Page-3-Header{
+    align-items: center;
+    text-align: center;
+    
+    
+}
+.btn-proto{
+  
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;    
+    Padding:5%;
+    margin:20px auto;
+    
+}.btn-see-all{
+   
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+Padding:5%;
+margin:20px auto;
+
+}
+
+.Page-3-Card{
+    width: 100%;
+    margin:20px auto;
+    
+}
+.Page-3-Card-Text{
+ 
+    box-shadow: none;
+    
+    
+}
+.Page-3-Card-Price{
+  
+    font-size: 24px;
+    line-height: 29px;  
+    letter-spacing: 0.02em;
+}.Page-3-Card-Heading{
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    
+}.Page-3-Card-Body{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+}.Page-3-Card>.col-md-5>img{
+    width:100%;
+    height:100%;
+}
+/* ************************************************** */
+
+
+/* Page-4 CSS */
+.Page-4-Body-Content{
+   
+    height:100%;
+   
+}
+.Page-4-Heading{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 52px;
+
+    
+}.Page-4-Body{
+    font-size: 14px;
+    line-height: 19px;
+  
+}
+.Page-4-Center-Section>div{
+    margin:5% 0px;
+    text-align: center;
+}.Page-4-Grp-Img-Side{
+    display:none;
+}
+/* ************************************************************* */
+
+/* Footer CSS */
+.Footer-Body-Content{
+   
+    height:100%;
+
+}
+.Footer-Contact-Section{
+    height:50vh;
+    
+
+}
+.Footer-Heading-1{
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+margin: 10% 0px;
+
+}
+.Footer-Body-1{
+font-size: 18px;
+line-height: 28px;
+}
+.Footer-Search-Box{
+    justify-content: center;
+    align-items: center;
+}
+.Footer-Heading-2{
+   
+    margin:3% auto;
+
+
+}
+.Footer-Section-3-CopyRt{
+   display:none;
+}
+
+/* ************************************************ */
+
+/* Navbar CSS */
+.navbar-nav{
+
+    margin:2% auto;
+}
+.nav-item{
+    padding:0 3%;
+    margin:2% auto;
+    align-items: center;
+    
+}
+
+
+
+
+
+  }

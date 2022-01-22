@@ -16,7 +16,7 @@ export const Page_1 = () => {
 
           <form class="row g-3">
             <div class="col-md-3">
-              <input type="text" className="form-control-plaintext Page-1-sb-Body" value="Adress"></input>
+              <input type="text" className="form-control-plaintext Page-1-sb-Body" value="Address"></input>
             </div>
             <div class="col-md-3">
               <input type="text" className="form-control-plaintext Page-1-sb-Body" value="City"></input>

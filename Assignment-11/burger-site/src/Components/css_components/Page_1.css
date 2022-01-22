@@ -1,0 +1,56 @@
+.body1{
+    height:100vh;
+    background-image: url("../../img/Backgrounds/Group\ 1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex;
+    background-position: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.content-body1{
+    width:45vw;
+    margin:20vmin 0 5vmin 5vmin;
+}
+.heading-text1{
+    font-size: 85px;
+    line-height: 90px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Archivo";
+}
+.body-text1{
+    font-size: 25px;
+    margin: 5vmin 0;
+    color: #ffffff;
+    font-family: "Nunito";
+}
+.btn-order1{
+    font-size: 25px;
+    color:#ffffff;
+    background-color: #f64b3c;
+    font-weight: bold;
+    font-family: "Montserrat";
+    text-align: center;
+    padding:0.975vmin 4.873vmin;
+    border-radius: 50px;
+}
+
+@media screen and (max-width: 800px) {
+   .body1{
+    background-size: auto;
+    -webkit-background-size:cover;
+    background-position: center;
+   }.content-body1{
+       width:100vw;
+       text-align: center;
+       margin:10vmin 0 5vmin 5vmin;
+   }
+   .heading-text1{
+    font-size: 57px;
+    line-height: 70px;
+    }.body-text1{
+    font-size: 25px;
+    }
+  }

@@ -1,0 +1,71 @@
+.body2{
+    height:100vh;
+    background-image: url("../../img/Backgrounds/Group\ 2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+.content-body2{
+    margin:10px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.heading-text2{
+    text-align: center;
+    font-size: 64px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+}
+.body-text2{
+    text-align: center;
+    font-size: 25px;
+color: #f64b3c;
+font-family: "Montserrat";
+text-align: center;
+}
+
+.card2{
+    text-align: center;
+}
+.card2>img{
+    border-radius: 100%;
+}
+.card2-heading{
+    font-size: 33px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+}.card2-body{
+    font-size: 25px;
+    color: #f64b3c;
+    font-weight: bold;
+    font-family: "Nunito";
+    text-align: center;
+}
+@media screen and (max-width: 770px) {
+    .body2{
+        background-color:#ffd1f2;
+        background-image: none;
+        height:100vh;
+ 
+    }
+    .heading-text2{
+     font-size: 45px;
+     }
+     .body-text1{
+     font-size: 25px;
+     }.card2-heading{
+         font-size: 30px;
+
+     }.card2-body{
+         font-size: 20px;
+     }
+   }
+   @media screen and (max-width :){
+       
+   }

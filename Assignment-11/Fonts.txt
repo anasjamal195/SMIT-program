@@ -1,0 +1,276 @@
+***************************************************************
+			FONTS
+***************************************************************
+
+----------------------------------------------------------------
+
+Nav items------ Poppins 
+font-size: 25px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Poppins";
+
+----------------------------------------------------------------
+Page-1 Heading---------- Archivo
+font-size: 91px;
+line-height: 97px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Archivo";
+
+
+
+Page-1 Body--------Nunito
+width: 1098px;
+height: 272px;
+font-size: 32px;
+color: #ffffff;
+font-family: "Nunito";
+
+
+-------------------------------------------------------------------
+Page-2 Headings----- Archivo
+font-size: 64px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+
+
+Page-2 Body----Montserrat
+width: 1821px;
+height: 210px;
+ 	
+
+
+Page-2 Cards-Heading-----Archivo
+font-size: 33px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+
+
+Page-2 Cards-Body-----Nunito width: 719px;
+height: 119px;
+font-size: 25px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Nunito";
+text-align: center;
+
+--------------------------------------------------------------------
+Page-3 Headings----Archivo
+font-size: 75px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Archivo";
+
+
+Page-3 Body-----Nunito
+width: 1131px;
+height: 210px;
+font-size: 30px;
+color: #ffffff;
+font-family: "Nunito";
+
+
+Page-3 Button-------Montserrat
+font-size: 25px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Montserrat";
+text-align: center;
+--------------------------------------------------------------------
+
+
+Page-4 Headings----Archivo
+font-size: 75px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Archivo";
+
+
+
+Page-4 Body-----Nunito
+width: 1131px;
+height: 210px;
+font-size: 30px;
+color: #ffffff;
+font-family: "Nunito";
+
+
+
+Page-4 Button-------Montserrat
+font-size: 25px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Montserrat";
+text-align: center;
+-------------------------------------------------------------------------
+
+
+
+Page-5 Headings------Archivo
+font-size: 62px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+
+
+Page-5 Body------Montserrat
+width: 1680px;
+height: 210px;
+font-size: 25px;
+color: #ffffff;
+font-family: "Montserrat";
+text-align: center;
+
+
+Page-5 Numbers------Archivo
+font-size: 102px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+
+-------------------------------------------------------------------
+
+
+
+Page-6 Headings----Archivo
+font-size: 75px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+
+
+Page-6 Card-Headings + Prices------Archivo
+font-size: 33px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+
+Page-6 Card-Body-----Montserrat
+width: 719px;
+height: 119px;
+font-size: 20px;
+color: #f64b3c;
+font-family: "Montserrat";
+text-align: center;
+
+
+
+Page-6 Button-------Montserrat
+font-size: 23px;
+line-height: 24px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Montserrat";
+text-align: center;
+
+
+------------------------------------------------------------------------
+
+Page-7 Body-------Archivo
+width: 2746px;
+height: 483px;
+font-size: 36px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+
+
+
+Page-7 Heading------Calistoga
+font-size: 45px;
+color: #ffffff;
+font-family: "Calistoga";
+text-align: center;
+
+----------------------------------------------------------------------------
+
+
+Page-8 Heading------Archivo
+font-size: 75px;
+color: #f64b3c;
+font-weight: bold;
+font-family: "Archivo";
+text-align: center;
+
+
+Page-8 Body--------Nutino
+width: 1509px;
+height: 210px;
+font-size: 30px;
+color: #f64b3c;
+font-family: "Nunito";
+text-align: center;
+
+
+------------------------------------------------------------------------------
+
+Footer Heading-----Archivo
+font-size: 31px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Archivo";
+
+
+
+Footer Body--------Nutinowidth: 958px;
+height: 244px;
+font-size: 24px;
+color: #ffffff;
+font-family: "Nunito";
+--------------------------------------------------------------------------------
+********************************************************************
+			EMBEDDING LINKS
+********************************************************************
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@700&family=Calistoga&family=Montserrat&family=Nunito&family=Poppins:wght@700&display=swap" rel="stylesheet"> 
+
+********************************************************************
+			CSS LINKS
+********************************************************************
+
+    font-family: 'Archivo', sans-serif;
+
+    font-family: 'Calistoga', cursive;
+
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Nunito', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem ipsum dolor sit amet consectetur,
+ adipisicing elit. Fuga, error nostrum?
+ Molestiae ut facere minima officia repellendus
+ laudantium consectetur, cumque accusamus
+ nisi necessitatibus dolore neque, nemo at,
+ fugiat earum eaque.

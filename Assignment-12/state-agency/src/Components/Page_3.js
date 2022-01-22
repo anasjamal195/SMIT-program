@@ -22,11 +22,11 @@ export const Page_3 = () => {
           <div className='container col-md-5'>
             <div className='button-box row '>
                 <div className='col-md-6 container'>
-                <button className='btn-proto' >Proto type</button>
+                <button className='btn-proto btn ' >Proto type</button>
                 </div>
                 <div className='col-md-6 container'>
 
-                <button className='btn-see-all' >See All Property</button>
+                <button className='btn-see-all btn btn-primary' >See All Property</button>
                 </div>
             </div>
               
@@ -55,7 +55,7 @@ export const Page_3 = () => {
                             </div>
                         </div>
                         <div className='Page-3-Card-Button my-2'>
-                            <button className='Page-3-Card-Btn'>View Details</button>
+                            <button className='Page-3-Card-Btn btn btn-primary'>View Details</button>
                         </div>
                     </div>
                     </div>
@@ -68,19 +68,19 @@ export const Page_3 = () => {
                         </img>
                     </div>
                     <div className='col-md-7 Page-3-Card-Text'>
-                        <div className='Page-3-Card-Price '>$229,000</div>
-                        <div className='Page-3-Card-Heading '>Langas Beach House</div>
+                        <div className='Page-3-Card-Price my-2'>$229,000</div>
+                        <div className='Page-3-Card-Heading my-1'>Langas Beach House</div>
                         <div className='Page-3-Card-Body'>37 Highland Ave</div>
-                        <div className='Page-3-Card-Icons row '>
+                        <div className='Page-3-Card-Icons row my-2'>
                             <div className='col-md-6'>
                             <i class="fa fa-bed Page-3-Card-Icon"> 2 Beds</i>
                             </div>
                             <div className='col-md-6 '>
-                            <i class="fa fa-bath Page-3-Card-Icon" aria-hidden="true">2 Baths</i>
+                            <i class="fa fa-bath Page-3-Card-Icon " aria-hidden="true">2 Baths</i>
                             </div>
                         </div>
                         <div className='Page-3-Card-Button '>
-                            <button className='Page-3-Card-Btn'>View Details</button>
+                            <button className='Page-3-Card-Btn my-2 btn btn-primary'>View Details</button>
                         </div>
                     </div>
                     </div>
@@ -117,7 +117,7 @@ export const Page_3 = () => {
                             </div>
                         </div>
                         <div className='Page-3-Card-Button my-2'>
-                            <button className='Page-3-Card-Btn'>View Details</button>
+                            <button className='Page-3-Card-Btn btn btn-primary'>View Details</button>
                         </div>
                     </div>
                     </div>
@@ -130,10 +130,10 @@ export const Page_3 = () => {
                         </img>
                     </div>
                     <div className='col-md-7 Page-3-Card-Text'>
-                        <div className='Page-3-Card-Price '>$329,000</div>
-                        <div className='Page-3-Card-Heading '>Clington Villa</div>
+                        <div className='Page-3-Card-Price my-2'>$329,000</div>
+                        <div className='Page-3-Card-Heading my-1'>Clington Villa</div>
                         <div className='Page-3-Card-Body'>365 Albert st.</div>
-                        <div className='Page-3-Card-Icons row '>
+                        <div className='Page-3-Card-Icons row my-2'>
                             <div className='col-md-6'>
                             <i class="fa fa-bed Page-3-Card-Icon"> 2 Beds</i>
                             </div>
@@ -141,8 +141,8 @@ export const Page_3 = () => {
                             <i class="fa fa-bath Page-3-Card-Icon" aria-hidden="true">2 Baths</i>
                             </div>
                         </div>
-                        <div className='Page-3-Card-Button '>
-                            <button className='Page-3-Card-Btn'>View Details</button>
+                        <div className='Page-3-Card-Button my-2'>
+                            <button className='Page-3-Card-Btn btn btn-primary'>View Details</button>
                         </div>
                     </div>
                     </div>

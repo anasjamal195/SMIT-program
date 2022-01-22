@@ -15,11 +15,12 @@ export const Footer = () => {
                 
                 </div>
             </div>
+            
             <div className='container col-md-5'>
                 <div class="input-group Footer-Search-Box">
-                    <div class="form-outline">
+                    <div class="form-outline ">
                     <label class="form-label form-label-footer" for="form1">Where do you want to look for?</label>
-                        <input type="search" id="form1" class="form-control Footer-Search" placeholder='City,Adress,ZIP' />
+                        <input type="search" id="form1" class="form-control Footer-Search" placeholder='City,Address,ZIP' />
                         <button type="button" class="btn btn-primary">
                         <i class="fa fa-search"></i>
                     </button>
@@ -28,7 +29,8 @@ export const Footer = () => {
                 </div>
             </div>
         </div>
-        <div className='Footer-Section-2 row container'>
+
+       <div className='container row my-5 mx-auto'>
             <div className='container col-md-3 text-center'>
                 <div className='Footer-Heading-2'>
                 Popular searches
@@ -50,7 +52,11 @@ export const Footer = () => {
                     Careers<br/>
                     Contact us
                 </div>
+            
             </div>
+           
+
+
             <div className='container col-md-3 text-center'>
                 <div className='Footer-Heading-2'>
                 Quick Links
@@ -72,11 +78,11 @@ export const Footer = () => {
                     Privacy Policy<br/>
                     Management
 
-                </div>
             </div>
             
+            </div>
+            </div>
 
-        </div>
         <div className = "Footer-Section-3 row container">
             <div className='Footer-Section-3-Logo col-md-3 container'>
                 <img src = {logo} ></img>
@@ -85,7 +91,8 @@ export const Footer = () => {
             <div className='Footer-Section-3-CopyRt col-md-3 container'>
                 &copy; 2021 Besnik, All Rights Reserved
             </div>
-        </div>
-
-    </div>;
+        
+    </div>
+    </div>
 };
+

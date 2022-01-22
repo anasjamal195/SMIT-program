@@ -7,8 +7,8 @@ import rating from '../img/ratings.png'
 export const Page_4 = () => {
   return <div className = "container-fluid Page-4-Body-Content">
       <div className='container-fluid row'>
-          <div className='col-md-4 '>
-              <img src = {grp_img_left}></img>
+          <div className='col-md-4 Page-4-Grp-Img-Side'>
+              <img className='Page-4-Grp-Img-Side' src = {grp_img_left}></img>
           </div>
           <div className='col-md-4 Page-4-Center-Section'>
               <div className='Page-4-Heading'>
@@ -33,8 +33,8 @@ export const Page_4 = () => {
                   <img src = {rating}></img>
               </div>
           </div>
-          <div className='col-md-4 '>
-          <img src = {grp_img_right}></img>
+          <div className='col-md-4 Page-4-Grp-Img-Side'>
+          <img className = "Page-4-Grp-Img-Side " src = {grp_img_right}></img>
 
           </div>
       </div>
