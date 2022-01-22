@@ -439,13 +439,15 @@ line-height: 25px;
 
 /* Page 2 CSS */
 .Page-2-Header-container>img{
-    width: 200%;
     margin:0 auto;
+    
 }
 .Page-2-Body-Content{
    
     height:100%;
     margin:20% 0px;
+    overflow: hidden;
+
 
 }
 

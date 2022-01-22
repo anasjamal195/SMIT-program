@@ -3,14 +3,19 @@ import "../App.css";
 import page_2_card_1 from '../img/page-2-card-1.png';
 import page_2_card_2 from '../img/page-2-card-2.png';
 import page_2_card_3 from '../img/page-2-card-3.png';
-import Page_1_footer from "../img/Page-1-footer.png"
-
+import Page_1_footer from "../img/Page-1-footer.png";
+import Page_1_footer_resp from "../img/Page-1-footer-resp.png";
+import { useState } from 'react';
 
 export const Page_2 = () => {
+    const [width, setwidth] = useState(window.innerWidth);
+    
+
+    
   return <div className='container-fluid Page-2-Body-Content'>
 
       <div className='container Page-2-Header-container'>
-      <img src = {Page_1_footer} alt = "Page 2 Header"></img>
+      <img src = {width < 900?Page_1_footer_resp:Page_1_footer} alt = "Page 2 Header"></img>
         </div>
       <div className='container Page-2-Heading'>
           What Can We Help You Find?
