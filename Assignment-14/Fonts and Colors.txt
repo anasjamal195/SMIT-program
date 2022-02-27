@@ -1,0 +1,353 @@
+****************************************
+		Fonts
+****************************************
+
+-------> Navbar
+
+--Nav Icons
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* Neutral/900 */
+color: #14171F;
+
+-------> Page 1
+
+--Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 84px;
+
+/* Neutral/800 */
+color: #292E3D;
+
+-- Card Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+/* Neutral/White */
+color: #FFFFFF;
+
+--Card Body
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+/* Neutral/White */
+color: #FFFFFF;
+
+
+--Card Btn
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+
+
+
+------------------> Page 2
+--Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+--Card Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+/* Neutral/700 */
+color: #3D445C;
+
+
+--Card Body
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+/* Neutral/400 */
+color: #858EAD;
+
+
+-------------> About Us
+
+--Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+--Body
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+--Button
+font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+/* Primary */
+color: #2947A9;
+
+
+-------------> Services
+
+--Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+/* Neutral/800 */
+color: #292E3D;
+
+--Card Body
+font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+/* Primary */
+color: #2947A9;
+
+
+----------> 30 year exp
+--Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 70px;
+
+/* Primary */
+color: #2947A9;
+
+--Body
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+/* Neutral/600 */
+color: #525B7A;
+
+
+--btn
+font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+/* Neutral/White */
+color: #FFFFFF;
+
+------------> Consultation
+
+--Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+--Body
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+--Btn
+font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+/* Neutral/White */
+color: #FFFFFF;
+
+
+
+---------------> Projects
+
+--Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+/* Neutral/800 */
+color: #292E3D;
+
+--Tabs
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+/* Primary */
+color: #2947A9;
+
+--Card Head
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+/* Neutral/White */
+color: #FFFFFF;
+
+
+--Card body
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* Neutral/White */
+color: #FFFFFF;
+
+--------------------> Contact us
+
+--Heading
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+/* Neutral/800 */
+color: #292E3D;
+
+--Body
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+
+--Sbmt btn
+font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+/* Neutral/White */
+color: #FFFFFF;
+
+
+
+------------> Footer
+
+--Heading
+font-family: Work Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+font-variant: small-caps;
+
+/* Primary */
+color: #2947A9;
+
+--Body
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-transform: capitalize;
+
+/* Neutral/800 */
+color: #292E3D;
+
+
+
+******************************
+	Fonts CDN
+******************************
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet">
+
+
+******************************
+	CSS Import
+******************************
+
+font-family: 'Work Sans', sans-serif;
+
+
+
+******************************
+	HEX Colors
+******************************
+
+Purple-Blue Theme color: #3559C7;
+Orange: #F9995D;
+Dark-Grey: #292E3D;
+Light-Grey: #C2C7D6;
+
+
+
+
+
